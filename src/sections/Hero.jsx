@@ -54,9 +54,8 @@ const Hero = () => {
               <h1>that Deliver Results</h1>
             </div>
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hello, I'm Karthik Kulkarni, a Pre-Final year Computer Science
-              Student with strong foundation in Data Structures,Full stack
-              Development,AI/ML.
+              Hey there, I'm Karthik Kulkarni, a student and a Full stack
+              developer combined with AI/ML.
             </p>
             <Button
               className=" md:w-80 md:h-16 w-60 h-12"
