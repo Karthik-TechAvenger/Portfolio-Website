@@ -4,6 +4,10 @@ import FeatureCards from "./sections/FeatureCards.jsx";
 import Hero from "./sections/Hero.jsx";
 import ShowcaseSection from "./sections/ShowcaseSection.jsx";
 import ExperienceSection from "./sections/ExperienceSection.jsx";
+import TechStack from "./sections/TechStack.jsx";
+import Testimonials from "./sections/testimonials.jsx";
+import Contact from "./sections/Contact.jsx";
+import Footer from "./sections/Footer.jsx";
 
 function App() {
   return (
@@ -14,6 +18,10 @@ function App() {
       <LogoSection />
       <FeatureCards />
       <ExperienceSection />
+      <TechStack />
+      <Testimonials />
+      <Contact />
+      <Footer />
     </>
   );
 }

@@ -1,7 +1,7 @@
 import { useRef, useMemo } from "react";
 import { useFrame } from "@react-three/fiber";
 
-const Particles = ({ count = 500 }) => {
+const Particles = ({ count = 250 }) => {
   const mesh = useRef();
 
   const particles = useMemo(() => {
@@ -13,7 +13,7 @@ const Particles = ({ count = 500 }) => {
           Math.random() * 10 + 5, // higher starting point
           (Math.random() - 0.5) * 10,
         ],
-        speed: 0.01 + Math.random() * 0.001,
+        speed: 0.007 + Math.random() * 0.001,
       });
     }
     return temp;
