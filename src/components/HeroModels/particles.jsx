@@ -1,7 +1,7 @@
 import { useRef, useMemo } from "react";
 import { useFrame } from "@react-three/fiber";
 
-const Particles = ({ count = 250 }) => {
+const Particles = ({ count = 190 }) => {
   const mesh = useRef();
 
   const particles = useMemo(() => {

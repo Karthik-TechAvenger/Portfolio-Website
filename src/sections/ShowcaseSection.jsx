@@ -45,7 +45,7 @@ const ShowcaseSection = () => {
         <div className="showcaselayout">
           <div className="first-project-wrapper" ref={project1}>
             <div className="image-wrapper">
-              <img src="/images/project1.png" alt="AI-Saas" />
+              <img src="/images/saas.png" alt="AI-Saas" />
             </div>
             <div className="text-content">
               <h2>
@@ -65,7 +65,7 @@ const ShowcaseSection = () => {
             <div className="project" ref={project2}>
               <div className="image-wrapper bg-[#ffefdb]">
                 <img
-                  src="/images/project2.png"
+                  src="/images/webcam.png"
                   alt="Web-cam Email alert system"
                 />
               </div>
@@ -73,7 +73,10 @@ const ShowcaseSection = () => {
             </div>
             <div className="project" ref={project3}>
               <div className="image-wrapper bg-[#ffe7eb]">
-                <img src="/images/project3.png" alt="Balance Sheet Analyzer" />
+                <img
+                  src="/images/BalanceSheet.png"
+                  alt="Balance Sheet Analyzer"
+                />
               </div>
               <h2>
                 A Balance Sheet Analyzer for helping Charted Accountants to

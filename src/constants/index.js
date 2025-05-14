@@ -152,41 +152,41 @@ const techStackIcons = [
 const expCards = [
   {
     review:
-      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+      "Presented my Solution to protect Disney's IP and Copyrights. I was able to create a solution that was both innovative and practical.",
+    imgPath: "/images/googleImg.png",
+    logoPath: "/images/google.png",
+    title: "Google Solutions Challenge Innovator",
+    date: "February 2025 -  April 2025",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Built Puppeteer-based web scraper detecting piracy across 100+ platforms with 95% accuracy.",
+      "Reduced response time by 50% via AI-powered predictive analytics.",
+      "Developed REST API using Express.js and MongoDB for real-time monitoring and data access.",
     ],
   },
   {
     review:
-      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+      "Connecting many companies across various domains to help them get talented students.",
+    imgPath: "/images/s.png",
+    logoPath: "/images/SNISTLogo.png",
+    title: "Head of Corporate Relations",
+    date: "March 2025 - Present",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Led 5+ corporate networking events and built strategic partnerships for student placements.",
+      "Represented the institute in high-level interactions; mentored 2,500+ students.",
+      "Providing students with great companies to work with.",
     ],
   },
   {
     review:
-      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
+      "Trying to make the world a better place by helping people find events near them.",
+    imgPath: "/images/reactImg.png",
+    logoPath: "/images/reactLogo.png",
     title: "React Native Developer",
-    date: "March 2019 - May 2020",
+    date: "May 2025 - Present",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Building cross-platform mobile app using React Native, integrating with Google's API services.",
+      "Combining geolocation, databases, and mobile UI/UX.",
+      "Discovering events near you. Filtering by category, RSVP, and get you notified.",
     ],
   },
 ];
@@ -208,46 +208,32 @@ const expLogos = [
 
 const testimonials = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
+    name: "LeetCode",
+    mentions: "@LeetCode",
     review:
-      "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-    imgPath: "/images/client1.png",
+      "Solved more than 350 LeetCode problems, showcasing my problem-solving skills and dedication to coding excellence. This achievement reflects my commitment to continuous learning and improvement in the field of software development.",
+    imgPath: "/images/lc.png",
   },
   {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
+    name: "Hackathons",
+    mentions: "@CourseVita",
     review:
-      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3.png",
+      "Working with Karthik was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Karthik's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website, Karthik is the ideal partner.",
+    imgPath: "/images/hack.png",
   },
   {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
+    name: "Gold Medal Lecturer",
+    mentions: "@NCC Telangana",
     review:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    imgPath: "/images/client2.png",
+      "Received a Gold Medal from the NCC Telangana for my outstanding performance in the Lecturate Competition. This recognition reflects my commitment to excellence and leadership within the organization.",
+    imgPath: "/images/ncc.png",
   },
   {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
+    name: "Hackathon Winner",
+    mentions: "@Hackathon",
     review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-    imgPath: "/images/client5.png",
-  },
-  {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
-    review:
-      "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-    imgPath: "/images/client4.png",
-  },
-  {
-    name: "Albert Flores",
-    mentions: "@albertflores",
-    review:
-      "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-    imgPath: "/images/client6.png",
+      "Participated in 5+ National Level Hackathons, Won in Special Category and got recognized for thinking and developing innovative solutions.",
+    imgPath: "/images/cup.png",
   },
 ];
 
