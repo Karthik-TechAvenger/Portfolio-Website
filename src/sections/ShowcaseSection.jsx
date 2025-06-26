@@ -45,29 +45,25 @@ const ShowcaseSection = () => {
         <div className="showcaselayout">
           <div className="first-project-wrapper" ref={project1}>
             <div className="image-wrapper">
-              <img src="/images/saas.png" alt="AI-Saas" />
+              <img src="/images/educate.png" alt="AI-Saas" />
             </div>
             <div className="text-content">
               <h2>
-                Made Media Management easy with AI powered capabilities using
-                Cloudinary
+                AI-Powered LMS Teaching SaaS - Personalize your learning
+                journey.
               </h2>
               <p className="text-white-50 md:text-xl">
-                AI-Saas is a web application that simplifies media management by
-                leveraging the power of AI. It offers features like image and
-                video optimization, automatic tagging, and intelligent search
-                capabilities. Built on top of Cloudinary, it ensures seamless
-                media handling and enhances user experience.
+                Empowering personalized learning through voice-based AI
+                tutoring. This app helps users learn any subject in their own
+                way and at their own pace, powered by intelligent voice agents.
+                Built with a secure, scalable full-stack architecture.
               </p>
             </div>
           </div>
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={project2}>
               <div className="image-wrapper bg-[#ffefdb]">
-                <img
-                  src="/images/webcam.png"
-                  alt="Web-cam Email alert system"
-                />
+                <img src="/images/ML.webp" alt="Web-cam Email alert system" />
               </div>
               <h2>Web-cam Email Alert System using OpenCV</h2>
             </div>
