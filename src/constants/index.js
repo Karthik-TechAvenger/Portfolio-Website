@@ -153,14 +153,15 @@ const expCards = [
   {
     review:
       "Presented my Solution to protect Disney's IP and Copyrights. I was able to create a solution that was both innovative and practical.",
-    imgPath: "/images/googleImg.png",
-    logoPath: "/images/google.png",
-    title: "Google Solutions Challenge Innovator",
-    date: "February 2025 -  April 2025",
+    imgPath: "/images/planon.png",
+    logoPath: "/images/planonL.png",
+    title: "Software Engineer Intern",
+    date: "August 2025 -  present",
     responsibilities: [
-      "Built Puppeteer-based web scraper detecting piracy across 100+ platforms with 95% accuracy.",
-      "Reduced response time by 50% via AI-powered predictive analytics.",
-      "Developed REST API using Express.js and MongoDB for real-time monitoring and data access.",
+      "Developed enterprise-grade applications using Java, Spring Boot, SQL in a distributed environment.",
+      "Optimized backend queries and services, achieving 80% performance improvement.",
+      "Collaborated in Agile teams, delivering new features and resolving critical issues.",
+      "Followed CI/CD pipelines and code review best practices to ensure reliability and scalability.",
     ],
   },
   {
@@ -174,19 +175,6 @@ const expCards = [
       "Led 5+ corporate networking events and built strategic partnerships for student placements.",
       "Represented the institute in high-level interactions; mentored 2,500+ students.",
       "Providing students with great companies to work with.",
-    ],
-  },
-  {
-    review:
-      "Trying to make the world a better place by helping people find events near them.",
-    imgPath: "/images/reactImg.png",
-    logoPath: "/images/reactLogo.png",
-    title: "React Native Developer",
-    date: "May 2025 - Present",
-    responsibilities: [
-      "Building cross-platform mobile app using React Native, integrating with Google's API services.",
-      "Combining geolocation, databases, and mobile UI/UX.",
-      "Discovering events near you. Filtering by category, RSVP, and get you notified.",
     ],
   },
 ];
