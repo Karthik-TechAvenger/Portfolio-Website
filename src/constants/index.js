@@ -152,7 +152,7 @@ const techStackIcons = [
 const expCards = [
   {
     review:
-      "Presented my Solution to protect Disney's IP and Copyrights. I was able to create a solution that was both innovative and practical.",
+      "Working on cutting-edge enterprise software solutions that streamline facility management for global clients.",
     imgPath: "/images/planon.png",
     logoPath: "/images/planonL.png",
     title: "Software Engineer Intern",
